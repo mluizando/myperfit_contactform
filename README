@@ -1,0 +1,8 @@
+Insira esses arquivos na raiz do wordpress e adicione o sendToMyperfit.js as paginas que contenha o contact form 7
+
+Em seguida chame a função myPerfitSend() ao evento 'wpcf7mailsent', e passe para ela
+1. O evento
+2. A url para redirecionar
+3. O id da lista do myperfit
+
+Qualquer contribuição é bem vinda, se te ajudou, por favor me fale, bom proveito.
